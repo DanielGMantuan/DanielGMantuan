@@ -34,5 +34,5 @@
   <img align="center" alt="DanielGMantuan-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 <br>
-<a href = "mailto:daniel2mantuan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%[](url)23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:daniel2mantuan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/daniel-mantuan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
